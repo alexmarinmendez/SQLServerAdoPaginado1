@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerAdoPaginado1", "WebApplication1\SQLServerAdoPaginado1.csproj", "{CBC974E5-C14E-4A61-A35E-DAB8A3657A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC974E5-C14E-4A61-A35E-DAB8A3657A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC974E5-C14E-4A61-A35E-DAB8A3657A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC974E5-C14E-4A61-A35E-DAB8A3657A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC974E5-C14E-4A61-A35E-DAB8A3657A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B9895B-E320-430B-969C-CF1718E1A61D}
+	EndGlobalSection
+EndGlobal
